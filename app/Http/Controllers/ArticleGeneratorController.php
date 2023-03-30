@@ -16,7 +16,7 @@ class ArticleGeneratorController extends Controller
         }
 
         $title = $input->title;
-        $apiToken = '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';
+        $apiToken = 'token_api_anda_di_sini';
         $client = OpenAI::client($apiToken);
 
         $result = $client->completions()->create([

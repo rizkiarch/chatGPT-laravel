@@ -212,6 +212,6 @@ return [
         // 'ExampleClass' => App\Example\ExampleClass::class,
     ])->toArray(),
 
-    'openai_api_key' => env('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'),
+    'openai_api_key' => env('token_api_anda_di_sini'),
 
 ];
