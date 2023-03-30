@@ -15,8 +15,8 @@
 
 ## Reference
 
-(https://techvblogs.com/blog/how-to-use-openai-laravel)
-(https://ahmadrosid.com/blog/laravel-openai-tutorial)
+-   (https://techvblogs.com/blog/how-to-use-openai-laravel)
+-   (https://ahmadrosid.com/blog/laravel-openai-tutorial)
 
 ## License
 
